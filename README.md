@@ -1,2 +1,11 @@
-# final-project-git
-A project that contains a bash script to calculate simple interest. The simple interest calculator takes the principal amount, rate of interest, and time period to compute the final interest.
+# Simple Interest Calculator
+
+A calculator that computes simple interest given principal, annual rate of interest and time period in years.
+
+## Input:
+* p, principal amount
+* t, time period in years
+* r, annual rate of interest
+
+## Output
+* simple interest = p*t*r
